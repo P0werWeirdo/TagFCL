@@ -1,4 +1,4 @@
-# Official Pytorch Implementation for TagFCL
+# Official Pytorch Implementation for TagFed
 
 This is the implementation code of the CVPR 2024 paper "**Traceable Federated Continual Learning**"
 
